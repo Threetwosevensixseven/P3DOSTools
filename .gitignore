@@ -1,0 +1,4 @@
+bin
+obj
+/src/.vs/P3DOSTools/v14/*.suo
+/src/P3DOSHeader/*.user
